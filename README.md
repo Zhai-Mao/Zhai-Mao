@@ -1,5 +1,4 @@
-# Hello world !!!
-# 👋 Hi, I’m @Zhai-Mao
+# Hello world !!! 👋 I’m @Zhai-Mao
 # change the world, make the world better👀🌱💞️📫😄⚡
 
 <!---

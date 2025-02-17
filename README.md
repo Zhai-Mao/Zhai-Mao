@@ -1,6 +1,6 @@
 # Hello world !!!
-- 👋 Hi, I’m @Zhai-Mao
-- I’m interested in everything👀🌱💞️📫😄⚡
+# 👋 Hi, I’m @Zhai-Mao
+# change the world, make the world better👀🌱💞️📫😄⚡
 
 <!---
 Zhai-Mao/Zhai-Mao is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
